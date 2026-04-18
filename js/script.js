@@ -1,7 +1,7 @@
 // ——————————————————————————————————————————————————
+// bbauska/Silus-scramble/js/script.js for Silus-scramble.bauska.org
 // TextScramble
 // ——————————————————————————————————————————————————
-
 class TextScramble {
   constructor(el) {
     this.el = el;
@@ -55,11 +55,9 @@ class TextScramble {
     return this.chars[Math.floor(Math.random() * this.chars.length)];
   }}
 
-
 // ——————————————————————————————————————————————————
 // Example
 // ——————————————————————————————————————————————————
-
 const phrases = [
 'Silus',
 'Gaming World',
