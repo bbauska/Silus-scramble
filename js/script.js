@@ -62,7 +62,7 @@ const phrases = [
 'dude!',
 'Silus',
 'Gaming World',
-'Please Subscribe!'];
+'Thank You! For 16,500'];
 
 const el = document.querySelector('.text');
 const fx = new TextScramble(el);
