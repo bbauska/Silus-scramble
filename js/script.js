@@ -56,9 +56,10 @@ class TextScramble {
 const phrases = [
 'Silus',
 'Gaming World',
+'On the Way to 20,000',
 'Silus',
 'Gaming World',
-'16,818!',
+'Over 16,800!',
 'Silus',
 'Gaming World',
 'Thank You! For 16,818 subs'];
