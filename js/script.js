@@ -56,13 +56,12 @@ class TextScramble {
 const phrases = [
 'Silus',
 'Gaming World',
-'yah!',
 'Silus',
 'Gaming World',
-'dude!',
+'16,818!',
 'Silus',
 'Gaming World',
-'Thank You! For 16,500'];
+'Thank You! For 16,818 subs'];
 
 const el = document.querySelector('.text');
 const fx = new TextScramble(el);
